@@ -1,6 +1,3 @@
-# Writing the provided README content to a README.md file
-
-readme_content = """
 # Wine Predictor
 
 This repository contains a machine learning application designed to classify wines based on their chemical properties using the K-Nearest Neighbors (KNN) algorithm. The dataset used for this project contains 13 features for wines grown in the same region in Italy, derived from three different cultivars.
@@ -53,7 +50,7 @@ Based on these features, the wines can be classified into three classes:
 
 1. Clone the repository:
    \`\`\`sh
-   git clone https://github.com/your-username/WinePredictor.git
+   git clone https://github.com/Mahesh-Pawar-02/Python-Assignment-15.git
    \`\`\`
 2. Navigate to the project directory:
    \`\`\`sh
@@ -89,4 +86,4 @@ The accuracy of the KNN model is calculated by dividing the dataset into trainin
 
 Contributions are welcome! Please create a pull request or open an issue to discuss your changes or suggestions.
 
----------------------------------------------------------------------------------------------------Thank You---------------------------------------------------------------------------------------------------------
+------------------------------------------------Thank You------------------------------------------------
